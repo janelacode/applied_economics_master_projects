@@ -1,4 +1,4 @@
-# applied_economics_master_projects
+# Applied Economics Master Projects
 
 This repository contains 3 of university projects
 * A study of the [affordable care act](https://github.com/janelacode/applied_economics_master_projects/blob/main/ACA_project/ACA_project.pdf) using STATA to a regression on an empirical model. I used the difference in differences identification strategy.
